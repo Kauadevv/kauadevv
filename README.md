@@ -1,6 +1,6 @@
 ## Olá👋
 
-- 🔭 Trabalhando como Assistente de operações
+- 🔭 Atualmente trabalho como Assistente de operações com viés em dados no Mercado Livre 
 - 🌱 Fora a faculdade ADS (Análise e Desenvolvimento de Sistemas), estou estudando orquestração de pipelines e processameto de grandes volumes de dados
 - 🧐 Sabia que 90% dos dados no mundo foram gerados nos últimos dois anos? O crescimento da informação digital está em um ritmo impressionante!
   
