@@ -1,11 +1,12 @@
 ## Olá👋
 
 - 🔭 Trabalhando como Assistente de operações
-- 🌱 Atualmente estou estudando orquestração de pipelines e processameto de grandes volumes de dados
+- 🌱 Fora a faculdade ADS (Análise e Desenvolvimento de Sistemas), estou estudando orquestração de pipelines e processameto de grandes volumes de dados
+- 🧐 Sabia que 90% dos dados no mundo foram gerados nos últimos dois anos? O crescimento da informação digital está em um ritmo impressionante!
   
 <img heigth="180" src="https://github-readme-stats.vercel.app/api?username=Kauadevv&show_icons=true&theme=radical"> </img>
 
-## Tecnologias Utilizadas
+## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Apache Spark" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
