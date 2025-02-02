@@ -10,6 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Google Cloud" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="Spark" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/spark-original-wordmark.svg" />
 </div>
 <br>
 <div> 
